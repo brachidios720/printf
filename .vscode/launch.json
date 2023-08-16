@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/raphaelcarbonnel/code/printf/new_printf",
+      "program": "/Users/raphaelcarbonnel/code/printf/new_printf/build/Debug/outDebug"
+    }
+  ]
+}
